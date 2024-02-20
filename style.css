@@ -1,0 +1,60 @@
+body{
+    
+    text-align: center;
+    align-items: center;
+    background-color: silver;
+}
+
+
+
+.container{
+    /* border: 1px solid red; */
+    width: 50%;
+    align-self: center;
+    margin-left: 20%;
+
+    /* background-color: silver; */
+    box-shadow: 2px 2px 9px 22px rgb(96, 117, 121);
+    border-radius: 44px;
+    
+}
+h1{
+    background-color: rgb(232, 233, 233) ;
+    padding: 22px;
+    border-radius: 22px;
+}
+form{
+    background-color: rgb(165, 166, 167);
+
+    padding-top: 33px;
+    padding-bottom: 55px;
+    border-radius: 22px;
+    box-shadow: 1px 1px 9px 6px rgb(242, 240, 243);
+}
+input{
+    background-color: rgb(184, 178, 178);
+    padding-right: 22px;
+    padding-left: 22px;
+    padding-top: 12px;
+    padding-bottom: 11px;
+    border-radius: 11px;
+    color: rgb(0, 0, 0);
+
+
+}
+#calculate-button{
+    padding: 20px;
+    border-radius: 22px;
+    background-color: rgb(126, 132, 133);
+
+}
+#results{
+    border: 1px solid rgb(44, 43, 43);
+    width: 50%;
+    margin-left: 25%;
+    font-size: 3.2rem;
+    border-radius: 22px ;
+    margin-top: 11px;
+    text-shadow: 5px 4px 3px  rgb(107, 107, 107);
+box-shadow: 1px 1px 8px 8px rgb(94, 93, 93);
+}
